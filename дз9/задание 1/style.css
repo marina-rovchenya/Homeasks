@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table{
+	margin: auto;
+	border-color: papayawhip;
+	background-color: linen;
+}
+td{
+	text-align: center;
+	font-size: 18px;
+	color: rosybrown;
+}
+.menu {
+    background-color: darkseagreen;
+    position: absolute;
+    display: none;
+    border: 1px solid steelblue;
+    text-align: left;
+    color: bisque;
+}
+
+.menu > li {
+    font-size: 16px;
+    padding: 8px;
+    list-style: none;
+    border-bottom: 0.1vh solid steelblue;
+}
+td:hover{
+	background-color: lightcoral;
+}
+.menu > li:hover {
+    background-color: mediumaquamarine;
+    cursor: pointer;
+}
+
+.menu :last-child {
+    border: none;
+}

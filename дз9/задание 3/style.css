@@ -1,0 +1,57 @@
+ul {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul:after {
+    display: block;
+    content: ' ';
+    clear: both;
+    float: none;
+}
+
+ul.root > li {
+    float: left;
+    position: relative;
+}
+
+ul.root > li > span {
+    display: block;
+    padding: 10px;
+    width: 100px;
+    color: purple;
+    background-color: thistle;
+    border: 1px solid plum;
+}
+
+ul.root > li > span:hover {
+    background-color: lavenderblush;
+}
+
+ul.drop {
+    display: none;
+    position: absolute;
+    width: 120px;
+    border: 1px solid plum;
+}
+
+ul.drop > li {
+    display: block;
+}
+
+ul.drop > li > a {
+    display: block;
+    padding: 10px;
+    color: steelblue;
+    background-color: lightsteelblue;
+}
+
+ul.drop > li > a:hover {
+    background-color: lavender;
+}
+
+ul.open {
+    display: block;
+}
