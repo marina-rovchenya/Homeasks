@@ -1,0 +1,13 @@
+[{
+	"title":"США",
+	"descriptionFile":"./txt/clothes/usa.txt",
+	"img":"./img/clothes/usa.jpg"
+},{
+	"title":"Южная Америка",
+	"descriptionFile":"./txt/clothes/sa.txt",
+	"img":"./img/clothes/sa.jpg"
+},{
+	"title":"Канада",
+	"descriptionFile":"./txt/clothes/canada.txt",
+	"img":"./img/clothes/canada.jpg"
+}]

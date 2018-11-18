@@ -1,0 +1,10 @@
+[{
+	"title":"Американцы",
+	"path":"./json/people/ampeople.json"
+},{
+	"title":"Азиаты",
+	"path":"./json/people/aspeople.json"
+},{
+	"title":"Европецы",
+	"path":"./json/people/eupeople.json"
+}]

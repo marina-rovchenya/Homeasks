@@ -1,0 +1,13 @@
+[{
+	"title":"Паэлья",
+	"descriptionFile":"./txt/food/paelya.txt",
+	"img":"./img/food/paelya.jpg"
+},{
+	"title":"Шницель",
+	"descriptionFile":"./txt/food/shnitsel.txt",
+	"img":"./img/food/shnitsel.jpg"
+},{
+	"title":"Колканон",
+	"descriptionFile":"./txt/food/kolkanon.txt",
+	"img":"./img/food/kolkanon.jpg"
+}]

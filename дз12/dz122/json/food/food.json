@@ -1,0 +1,10 @@
+[{
+	"title":"Американская кухня",
+	"path":"./json/food/amfood.json"
+},{
+	"title":"Азиатская кухня",
+	"path":"./json/food/asfood.json"
+},{
+	"title":"Европейская кухня",
+	"path":"./json/food/eufood.json"
+}]

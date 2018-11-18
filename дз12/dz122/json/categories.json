@@ -1,0 +1,11 @@
+[{
+	"title":"Национальная еда",
+	"path":"./json/food/food.json"
+},{
+	"title":"Национальные костюмы",
+	"path":"./json/clothes/clothes.json"
+},{
+	"title":"Национальности",
+	"path":"./json/people/people.json"
+}
+]

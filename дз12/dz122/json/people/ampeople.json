@@ -1,0 +1,14 @@
+[{
+	"title":"США",
+	"descriptionFile":"./txt/people/usa.txt",
+	"img":"./img/people/usa.jpg"
+},{
+	"title":"Южная Америка",
+	"descriptionFile":"./txt/people/sa.txt",
+	"img":"./img/people/sa.jpg"
+},{
+	"title":"Канада",
+	"descriptionFile":"./txt/people/canada.txt",
+	"img":"./img/people/canada.jpg"
+}
+]

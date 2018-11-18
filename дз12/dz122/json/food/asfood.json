@@ -1,0 +1,13 @@
+[{
+	"title":"Рамен",
+	"descriptionFile":"./txt/food/ramen.txt",
+	"img":"./img/food/ramen.jpg"
+},{
+	"title":"Палак панир",
+	"descriptionFile":"./txt/food/palak.txt",
+	"img":"./img/food/palak.jpg"
+},{
+	"title":"Butter chicken",
+	"descriptionFile":"./txt/food/butter.txt",
+	"img":"./img/food/butter.jpg"
+}]

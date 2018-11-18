@@ -1,0 +1,13 @@
+[{
+	"title":"Англия",
+	"descriptionFile":"./txt/people/england.txt",
+	"img":"./img/people/england.jpg"
+},{
+	"title":"Франция",
+	"descriptionFile":"./txt/people/france.txt",
+	"img":"./img/people/france.jpg"
+},{
+	"title":"Италия",
+	"descriptionFile":"./txt/people/italy.txt",
+	"img":"./img/people/italy.jpg"
+}]

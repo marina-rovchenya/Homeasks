@@ -1,0 +1,14 @@
+[{
+	"title":"Apple pie",
+	"descriptionFile":"./txt/food/pie.txt",
+	"img":"./img/food/apple-pie.jpg"
+},{
+	"title":"Cheeseburger",
+	"descriptionFile":"./txt/food/cheeseburger.txt",
+	"img":"./img/food/cheeseburger.jpg"
+},{
+	"title":"Corn dogs",
+	"descriptionFile":"./txt/food/corn-dogs.txt",
+	"img":"./img/food/corn-dogs.jpg"
+}
+]

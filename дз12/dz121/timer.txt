@@ -1,0 +1,3 @@
+<div id="clockdiv", class="block1">
+		<span class="hours"></span> : <span class="minutes"></span> : <span class="seconds"></span>
+	</div>

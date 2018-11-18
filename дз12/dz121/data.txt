@@ -1,0 +1,19 @@
+<select id="from">
+		<option>Выберите валюту</option>
+		<option value="0.5">BYN</option>
+		<option value="1">USD</option>
+		<option value="1.2">EUR</option>
+		<option value="0.015">RUB</option>
+	</select>
+
+	<input type="number" id="number"/>
+	
+	<select id="into">
+		<option>Выберите валюту</option>
+		<option value="0.5">BYN</option>
+		<option value="1">USD</option>
+		<option value="1.2">EUR</option>
+		<option value="0.015">RUB</option>
+	</select>
+	
+	<p><span id="converted"></span></p>

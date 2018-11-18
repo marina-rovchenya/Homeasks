@@ -1,0 +1,13 @@
+[{
+	"title":"Индия",
+	"descriptionFile":"./txt/clothes/india.txt",
+	"img":"./img/clothes/india.jpg"
+},{
+	"title":"Китай",
+	"descriptionFile":"./txt/clothes/china.txt",
+	"img":"./img/clothes/china.jpg"
+},{
+	"title":"Япония",
+	"descriptionFile":"./txt/clothes/japan.txt",
+	"img":"./img/clothes/japan.jpg"
+}]

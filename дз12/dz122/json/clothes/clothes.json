@@ -1,0 +1,10 @@
+[{
+	"title":"Америка",
+	"path":"./json/clothes/amclothes.json"
+},{
+	"title":"Азия",
+	"path":"./json/clothes/asclothes.json"
+},{
+	"title":"Европа",
+	"path":"./json/clothes/euclothes.json"
+}]

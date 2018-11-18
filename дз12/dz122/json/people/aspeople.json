@@ -1,0 +1,14 @@
+[{
+	"title":"Индия",
+	"descriptionFile":"./txt/people/india.txt",
+	"img":"./img/people/india.jpg"
+},{
+	"title":"Китай",
+	"descriptionFile":"./txt/people/china.txt",
+	"img":"./img/people/china.jpg"
+},{
+	"title":"Япония",
+	"descriptionFile":"./txt/people/japan.txt",
+	"img":"./img/people/japan.jpg"
+}
+]

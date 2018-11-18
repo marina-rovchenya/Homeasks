@@ -1,0 +1,6 @@
+<div type="text">Введите символы для шифровки:<br> a-z либо пробел</div> 
+	<input class="text" id="1">
+	<button type="button" id="shifr">Зашифровать</button>
+	<div type="text">Введите символы для дешифровки:<br> 1-9 либо 01-09 либо 001-009</div>
+	<input class="text" id="2">
+	<button type="button" id="deshifr">Расшифровать</button>
