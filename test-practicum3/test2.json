@@ -1,0 +1,60 @@
+[{
+	"question": "1. Anna and Kate _________ to the cinema last Sunday. .",
+	"answers":["didn’t went", "don’t go", "didn’t go"],
+	"rightAnswer": "3",
+	"max": 10
+},
+{
+	"question": "2. I had breakfast ________ ago. ",
+	"answers":["this morning", "three hours", "7.30 a.m."],
+	"rightAnswer": "2",
+	"max": 10
+},
+{
+	"question": "3. Have you got _________ brothers?",
+	"answers":["some", "any", "the"],
+	"rightAnswer": "2",
+	"max": 10
+},
+{
+	"question": "4. Vienna is __________ city in Austria. ",
+	"answers":["the most beautiful", "the beautiful lest", "more beautiful than"],
+	"rightAnswer": "1",
+	"max": 10
+},
+{
+	"question": "5. ________ Jim _____ today? ",
+	"answers":[" Do / work","Is / working","Does / works"],
+	"rightAnswer": "2",
+	"max": 10
+},
+{
+	"question": "6. I'm going to Egypt ___________ the pyramids. ",
+	"answers":["seeing","to see","going to see"],
+	"rightAnswer": "2",
+	"max": 10
+},
+{
+	"question": "7. ______ you ever _____ Mexican food? ",
+	"answers":["Have / eat","Have / ate","Have / eaten"],
+	"rightAnswer": "3",
+	"max": 10
+},
+{
+	"question": "8.  Let's go for a ______ swim. ",
+	"answers":["quick"," badly","well"],
+	"rightAnswer": "1",
+	"max": 10
+},
+{
+	"question": "9. My grandmother started work ________1960. ",
+	"answers":["in","by","on"],
+	"rightAnswer": "1",
+	"max": 10
+},
+{
+	"question": "10. 'I've met Robbie Williams.' 'When __________ ?' ",
+	"answers":["have you met","did you met him","did you meet him"],
+	"rightAnswer": "3",
+	"max": 10
+}]

@@ -1,0 +1,33 @@
+nav {
+	color: lightblue;
+	text-align: center;
+	font-style: italic;
+	font-size: 16pt;
+}
+
+a {
+	background-color: lightgreen;
+}
+
+a:hover {
+	background-color: white;
+}
+
+div {
+	color:blueviolet;
+	border-width: 3px;
+	border-style: outset;
+	border-color: black;
+	width: fixed;
+	height: fixed;
+	border-radius: 10px;
+	background-color: mistyrose;
+	padding-top: 5px; /* сверху */
+	padding-right: 20px; /* справа */
+	padding-bottom: 5px; /* снизу */
+	padding-left: 20px; /* слева */
+}
+
+input {
+	background-color: ivory;
+}
