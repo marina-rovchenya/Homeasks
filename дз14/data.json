@@ -1,0 +1,98 @@
+[
+	{
+		"title": "Chair",
+		"price": 800,	
+		"img": "1.jpg",
+		"category": "Furniture"
+	},
+	{
+		"title": "Table",
+		"price": 1000,	
+		"img": "2.jpg",
+		"category": "Furniture"
+	},
+	{
+		"title": "Bedside Table",
+		"price": 650,	
+		"img": "3.jpg",
+		"category": "Furniture"
+	},
+	{
+		"title": "Bed",
+		"price": 1500,	
+	 	"img": "4.jpg",
+	 	"category": "Furniture"
+	},
+	{
+		"title": "Table Lamp",
+	 	"price": 100,	
+	 	"img": "5.jpg",
+	 	"category": "Furniture"
+	},
+	{
+		"title": "Wardrope",
+	 	"price": 2000,	
+	 	"img": "6.jpg",
+	 	"category": "Furniture"
+	},
+	{
+		"title": "Microwave",
+		"price": 1000,	
+		"img": "10.jpg",
+		"category": "Kitchen"
+	},
+	{
+		"title": "Cupboard",
+		"price": 300,	
+		"img": "20.jpg",
+		"category": "Kitchen"
+	},
+	{
+		"title": "Fridge",
+		"price": 5000,	
+		"img": "30.jpg",
+		"category": "Kitchen"
+	},
+	{
+		"title": "Coffee Mashine",
+		"price": 700,	
+	 	"img": "40.jpg",
+	 	"category": "Kitchen"
+	},
+	{
+		"title": "Dishwasher",
+	 	"price": 1000,	
+	 	"img": "50.jpg",
+	 	"category": "Kitchen"
+	},
+	{
+		"title": "Electric stove",
+	 	"price": 2000,	
+	 	"img": "60.jpg",
+	 	"category": "Kitchen"
+	},
+	{
+		"title": "Washing-stand",
+		"price": 800,	
+		"img": "100.jpg",
+		"category": "Bathroom"
+	},
+	{
+		"title": "Bath",
+		"price": 2500,	
+		"img": "200.jpg",
+		"category": "Bathroom"
+	},
+	{
+		"title": "Washer",
+		"price": 2500,	
+		"img": "300.jpg",
+		"category": "Bathroom"
+	},
+	{
+		"title": "Clothes Dryer",
+		"price": 1800,	
+	 	"img": "400.jpg",
+	 	"category": "Bathroom"
+	}
+]
